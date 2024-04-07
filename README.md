@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h4 align="left">Olá! Eu sou Jorge, mais conhecido pelo apelido que é meu sobrenome, no caso "Menezes".<br>Sou um profissional em transição de carreira, com experiência como vendedor de auto peças e um entusiasta da tecnologia. Atualmente, estou graduando Análise em Desenvolvimento de Sistemas na UNISUAM. Paralelamento, faço cursos online e estudo por conta própria. Estou buscando novas oportunidades na área de desenvolvimento de software, onde posso aplicar minhas habilidades de vendas e minha paixão pela tecnologia.</h4>
+<h4 align="left">Olá! Eu sou Jorge, mais conhecido pelo apelido que é meu sobrenome, no caso "Menezes".<br>Sou um profissional em transição de carreira, com experiência como vendedor de auto peças e um entusiasta da tecnologia. Atualmente, estou graduando Análise em Desenvolvimento de Sistemas na UNISUAM. Paralelamente, faço cursos online e estudo por conta própria no intuito de obter mais conhecimento, e refinar o que me ja foi ensinado, no intuito de sempre procurar evoluir. Estou buscando novas oportunidades na área de desenvolvimento de software, onde posso aplicar minhas habilidades de vendas e minha paixão pela tecnologia.</h4>
 
 ###
 
