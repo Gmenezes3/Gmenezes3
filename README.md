@@ -1,40 +1,15 @@
-<h1 align="left">Olá, tudo bem?</h1>
+# Sobre Mim:
+Olá! Me chamo Jorge, mas sou mais conhecido como **Menezes**. Estou em transição de carreira para a área de **Desenvolvimento Front-End**, com foco em **JavaScript** e suas tecnologias.<br><br>Atualmente, dedico meu tempo a cursos, projetos práticos e ao estudo contínuo para consolidar o aprendizado e desenvolver habilidades técnicas sólidas. Estou em busca da **minha primeira oportunidade na área de tecnologia**, motivado por desafios e pela vontade constante de evoluir.<br><br>Trago comigo experiências anteriores que me proporcionaram competências como **atendimento ao cliente, organização e trabalho em equipe** — habilidades que somam muito no ambiente de desenvolvimento e colaboração.<br><br>Estou sempre aberto a aprender mais, trocar experiências e contribuir com soluções criativas e funcionais.
 
-###
 
-<p align="left">Sou o Jorge, mais conhecido como "Menezes". Estou em transição de carreira para a área de desenvolvimento Back-End, com foco em aprender e aprimorar meus conhecimentos em C#. <br>Atualmente, dedico meu tempo a criar projetos pessoais para consolidar o aprendizado e explorar novas habilidades. <br>Além do conhecimento técnico, trago uma sólida experiência no mercado, onde desenvolvi habilidades valiosas, como atendimento ao cliente, organização e trabalho em equipe. Essas competências me ajudam a colaborar de forma eficiente com outros desenvolvedores e a entregar soluções bem estruturadas e funcionais. <br>Estou sempre em busca de crescimento e aprendizado contínuo, aberto a novas oportunidades e desafios que contribuam para minha evolução profissional.</p>
+## 🌐 Redes Sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jorge-menezes21) 
 
-###
+# Stack utilizadas:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 Estatisticas do GitHub:
+![](https://github-readme-stats.vercel.app/api?username=Gmenezes3&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gmenezes3&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gmenezes3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2 align="left">Stacks Trabalhadas</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gmenezes3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gmenezes3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gmenezes3.Gmenezes3&right_color=darkgreen"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
